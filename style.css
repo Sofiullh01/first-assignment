@@ -85,10 +85,16 @@
     border-radius: 200px 200px 0px 0px;
 }
 a{
-    margin-top: 20px;
+    /* margin-top: 20px;
     justify-content: center;
-    text-align: center;
+    text-align: center; */
+
 }
+.second-img-div p {
+    text-align: center;
+    margin-top: 10px;
+}
+
 /* third-section */
 .third-main-div{
     display: flex;
@@ -122,6 +128,10 @@ a{
     margin: 20px 0px;
 }
 /* five-section-styles */
+.our-section{
+    background-color: rgba(255, 182, 193, 0.642);
+    padding: 50px 0px;
+}
 .fiveth-text-div{
     text-align: center;
     margin-top:50px;
@@ -152,7 +162,44 @@ a{
 }
 /* six-section */
 .cover-img{
-    background-image: ;
+    background-image: url("asset/Rectangle 9.png");
+    height: 300px;
+    width: 70%;
+    margin: auto;
+    background-size: cover;
+    margin-top: 120px;
+    margin-bottom: 100px;
+}
+.six-contenar{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 80px;
+}
+.six-head{
+    font-size: 44px;
+    font-weight: 700;
+    margin: 20px;
+}
+.six-para{
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 20px;
+    margin-left: 100px;
+}
+button{
+    background-color: rgba(229, 84, 115, 1);
+    padding: 10px;
+    color: white;
+    border-style: none;
+    font-size: 14px ;
+    border-radius: 5PX;
+    height: 40PX;
+}
+input{
+    width: 400PX;
+    height: 40PX;
+    border-radius: 7PX;
 }
 /* our-section */
 .our-sedtion{
