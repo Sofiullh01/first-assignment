@@ -36,9 +36,9 @@
     margin: 30px 0px;
 }
 .first-section-img{
-    width: 390px;
-    height: 500px;
-    margin:60px 50px 0px 0px;
+    width: 360px;
+    height: 455px;
+    margin:60px 50px 10px 0px;
     padding-top: 20px;
 }
 
@@ -150,9 +150,44 @@ a{
 .head-content{
     position: absolute;
 }
-
+/* six-section */
+.cover-img{
+    background-image: ;
+}
+/* our-section */
+.our-sedtion{
+    margin:15% 0%;
+}
+.our-contener{
+    text-align: center;
+    margin-top: 50px;
+    padding:0% 30%;
+}
+.our-parent{
+    display: flex;
+    justify-content: space-evenly;
+}
+.our-img-div{
+    width: 50%;
+    margin-left: 120px;
+}
+.our-text-div{
+    width: 50%;
+    margin-right: 120px;
+    text-align: justify;
+}
+.our-section-head{
+    margin: 20px 0px 0px 40px;
+    padding-bottom: 40px;
+}
+.our-head{
+    font-size: 42px;
+}
+.our-para{
+    margin: 20px 0px;
+}
 footer{
-    width: 1278px;
+    width: 1272px;
     height: 300px;
     background-color: black;
     align-items: center;
