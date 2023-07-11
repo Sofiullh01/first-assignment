@@ -76,3 +76,30 @@
 .fourth-section-text{
     margin: 20px 0px;
 }
+/* five-section-styles */
+
+footer{
+    width: 1278px;
+    height: 800px;
+    background-color: black;
+    align-items: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding-top: 300px;
+}
+span{
+    color: red;
+}
+.footer-para{
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 15px;
+}
+footer-para2{
+    color: white;
+    margin-top: 15px; 
+}
+.margin-b{
+    margin-bottom: 30px;
+}
