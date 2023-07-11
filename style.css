@@ -43,20 +43,51 @@
 }
 
 /* Second-settion */
-/* .second-section{
-     height: 120vh; 
-    background-color: white;
-    margin-top: 50px;
+
+.second-section{
+    ma
 }
-.second-section-img{
-    width: 200px;
-    height: 308px;
-    padding: 50px;
+.second-tex-div{
+    text-align: center;
+    margin-top:50px;
+    padding:0% 30%;
 }
-.final-image{
-    width: 464px;
-    background-color:#A7216226 ;
-} */
+.second-section-head{
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.second-section-text{
+    color:#27272799 ;
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 50px;
+}
+.second-img-div{
+    display: flex;
+    justify-content: space-evenly;
+}
+.child-a{
+    background-color:rgba(167, 33, 98, 0.15) ;
+    width: 364px;
+    height: 438px;
+    border-radius: 200px 200px 0px 0px;
+}
+.general-img{
+    margin: 118px 0px 0px 30px;
+}
+.child-b{
+    background-color:rgba(5, 151, 160, 0.15);
+    width: 364px;
+    height: 438px;
+    border-radius: 200px 200px 0px 0px;
+}
+.child-c{
+    background-color:rgba(71, 125, 17, 0.15) ;
+    width: 364px;
+    height: 438px;
+    border-radius: 200px 200px 0px 0px;
+}
 
 /* fourth section */
 .fourth-section{
@@ -77,6 +108,14 @@
     margin: 20px 0px;
 }
 /* five-section-styles */
+
+.contenar{
+    position: absolute;
+    text-align: center;
+}
+.head-content{
+    position: absolute;
+}
 
 footer{
     width: 1278px;
@@ -103,3 +142,4 @@ footer-para2{
 .margin-b{
     margin-bottom: 30px;
 }
+/* sixth-section */
